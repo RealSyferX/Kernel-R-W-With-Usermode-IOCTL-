@@ -17,3 +17,4 @@ UserMode Project ("Client") : Configuration Properties -> Advanced -> Character 
 Get a Module Handler from Kernel Driver instead of UserMode
 Load A Kernel Driver From BIOS/UEFI (AMD/INTEL)
 ```
+test
